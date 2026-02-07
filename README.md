@@ -1,5 +1,5 @@
 # MovementTracker
-Tracks time and distance spent running on foot and while mounted.
+WoW 1.12.1 addon that tracks time and distance spent running on foot and while mounted.
 
 /mt or /movementtracker to open the UI
 
